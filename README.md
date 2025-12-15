@@ -1,10 +1,10 @@
 # Meshtastic Router + Client Devices – Decentralized Mesh Network
 
 ## Overview
-This project demonstrates a decentralized, encrypted mesh communication network built using Meshtastic nodes (ESP32 + LoRa) and mobile clients. The system enables off-grid messaging without relying on the internet, cellular towers, or centralized servers.
+This project is a decentralized, encrypted mesh communication network built using Meshtastic nodes (ESP32 + LoRa) and Relayers. This network allows off-grid messaging without depending on the internet, cellular towers, or centralized servers.
 
 ## What I Built
-Multiple Meshtastic nodes configured as:
+Multiple nodes configured as:
 ```
 1: Client nodes (paired with phones)
 2: Router / relayer nodes (always-on mesh repeaters)
@@ -27,7 +27,15 @@ LoRa radios (868MHz EU ISM band)
 Mobile phones (Android / iOS)
 
 ## Images / Demo
-All images and demos are present in /src folded.
+![img](https://github.com/uzzambutt/Meshtastic-System/blob/main/src/IMG-20251009-WA0009.jpeg)
+![img](https://github.com/uzzambutt/Meshtastic-System/blob/main/src/IMG_20250612_195436.jpg)
+![img](https://github.com/uzzambutt/Meshtastic-System/blob/main/src/IMG_20250612_195443.jpg)
+![img](https://github.com/uzzambutt/Meshtastic-System/blob/main/src/IMG_20250612_195443.jpg)
+![img](https://github.com/uzzambutt/Meshtastic-System/blob/main/src/IMG_20250612_195459.jpg)
+![img](https://github.com/uzzambutt/Meshtastic-System/blob/main/src/IMG_20250616_193918.jpg)
+![img](https://github.com/uzzambutt/Meshtastic-System/blob/main/src/IMG_20250621_164234.jpg)
+![img](https://github.com/uzzambutt/Meshtastic-System/blob/main/src/IMG_20250621_164805.jpg)
+
 
 ## Journal
 All journal entries with images and explanation are present on my blueprint profile.
