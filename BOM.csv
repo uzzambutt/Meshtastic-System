@@ -1,0 +1,17 @@
+Node_Type,Item,Description,Quantity,Notes
+Relayer,Heltec WiFi LoRa 32 V3,ESP32-S3 board with SX1262 LoRa radio,1,Primary always-on relay node
+Relayer,External LoRa Antenna,DIYMall external LoRa antenna (SMA),1,Improves range
+Relayer,Solar Panel,10W 21V solar panel,1,Primary power source
+Relayer,MPPT Charge Controller,MPPT solar charge controller 6V 1A,1,Efficient battery charging
+Relayer,Voltage Regulator,6V voltage regulator,1,Stable supply for electronics
+Relayer,Boost Converter,DC-DC boost converter,1,Voltage adjustment
+Relayer,18650 Battery,Li-ion 18650 cell 2000mAh,1,Energy storage
+Relayer,18650 Holder,Battery holder for 18650 cell,1,Secure mounting
+Relayer,Waterproof Enclosure,Weatherproof enclosure,1,Outdoor deployment
+Relayer,Buzzer,Active buzzer module,2,Status / alert indication
+
+Client,Seeed XIAO ESP32,SX1262-based ESP32 LoRa board,1,Portable client node
+Client,External LoRa Antenna,DIYMall external LoRa antenna (SMA),1,Portable communication
+Client,LiPo Battery,Rechargeable LiPo battery 1250mAh,1,Portable power
+Client,USB Cable,USB-C cable,1,Charging and firmware flashing
+Client,Buzzer,Active buzzer module,1,User feedback
